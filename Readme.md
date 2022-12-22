@@ -1,0 +1,1 @@
+This python script unzips and extracts a given zip folder.
